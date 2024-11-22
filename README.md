@@ -1,4 +1,4 @@
-Hello! I’m Salami Ayomide Kadeem a passionate and results-driven Data Analyst with a strong foundation in data manipulation, visualization, and analysis. I love exploring new technologies and working on interesting projects .I love turning raw data into actionable insights that drive business decisions. My goal is to continue learning and sharing projects that showcase my skills and problem-solving approach.
+Hello! I’m Salami Ayomide Kazeem a passionate and results-driven Data Analyst with a strong foundation in data manipulation, visualization, and analysis. I love exploring new technologies and working on interesting projects .I love turning raw data into actionable insights that drive business decisions. My goal is to continue learning and sharing projects that showcase my skills and problem-solving approach.
 Please feel free to browse through my repositories to see what I have been working on. 
 
 
